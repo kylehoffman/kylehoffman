@@ -1,4 +1,4 @@
-## Hi there 👋
+## Yo, I'm Kyle :D
 
 - 🔭 I’m currently working on a traingular arbitrage cryptocurrency trading algorithm
 - 🌱 I’m currently learning Java
