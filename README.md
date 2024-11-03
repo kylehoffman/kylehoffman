@@ -5,4 +5,3 @@
 - 👯 I’m looking to collaborate on trading algorithm projects
 - 📫 How to reach me: kywle@yahoo.com
 - ⚡ Fun fact: Although I enjoy computer science, my primary passion is pure mathematics
--->
